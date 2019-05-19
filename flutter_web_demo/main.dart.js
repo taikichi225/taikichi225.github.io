@@ -31905,7 +31905,7 @@ F.z5.prototype={
 T:function(a){var u=null
 return new S.l0(new F.DF(u),"Flutter Web Demo",X.JM(u,u,C.j1,u),!1,u)}}
 F.DF.prototype={
-T:function(a){var u=null,t=E.KJ(u,L.q1("Happy Birthday!!!",u)),s=P.Jk(20,new F.DH(a),!0,N.ap),r=s.length
+T:function(a){var u=null,t=E.KJ(u,L.q1("Flutter Web Demo",u)),s=P.Jk(20,new F.DH(a),!0,N.ap),r=s.length
 return M.Ma(t,new B.x1(new B.Cz(3,0,0,1),new G.Cu(!0,!0,!0,s),u,C.k,!1,u,!0,C.ez,!1,u,r,C.bV,u),E.Li(M.hd(u,U.xo("cake.png",u),u,u,u,u,u,new V.az(10,10,10,10),u),!1,new F.DI(a)))}}
 F.DH.prototype={
 $1:function(a){var u=null,t=this.a,s=F.cb(t,!1).a.a
@@ -31922,10 +31922,10 @@ $1:function(a){H.a(a,"$iai")
 return new F.l7(null)},
 $S:174}
 F.l7.prototype={
-T:function(a){var u,t="Happy Birthday!!!",s=null,r=L.q1(t,s)
-r=E.KJ(D.o7(s,M.hd(s,U.xo("back.png",s),s,s,s,s,s,new V.az(15,15,15,15),s),C.R,!1,s,s,s,s,s,s,s,s,s,s,new F.ze(a),s,s,s,s),r)
-u=T.Ps(H.j([M.hd(s,L.q1(t,A.js(s,s,s,s,s,s,s,s,s,60,s,s,s,s,!0,s,s,s,s,s,s)),s,s,s,s,new V.az(0,30,0,15),s,s),U.xo("birthday_nextpage.png",s),M.hd(s,L.q1("To ME!!!",A.js(s,s,s,s,s,s,s,s,s,60,s,s,s,s,!0,s,s,s,s,s,s)),s,s,s,s,new V.az(0,15,0,0),s,s)],[N.ap]),C.dB)
-return M.Ma(r,new E.Cn(!0,new T.iy(C.a0,s,s,u,s),s),s)}}
+T:function(a){var u,t=null,s=L.q1("Flutter Web Demo",t)
+s=E.KJ(D.o7(t,M.hd(t,U.xo("back.png",t),t,t,t,t,t,new V.az(15,15,15,15),t),C.R,!1,t,t,t,t,t,t,t,t,t,t,new F.ze(a),t,t,t,t),s)
+u=T.Ps(H.j([M.hd(t,L.q1("Happy Birthday!!!",A.js(t,t,t,t,t,t,t,t,t,60,t,t,t,t,!0,t,t,t,t,t,t)),t,t,t,t,new V.az(0,30,0,15),t,t),U.xo("birthday_nextpage.png",t),M.hd(t,L.q1("To ME!!!",A.js(t,t,t,t,t,t,t,t,t,60,t,t,t,t,!0,t,t,t,t,t,t)),t,t,t,t,new V.az(0,15,0,0),t,t)],[N.ap]),C.dB)
+return M.Ma(s,new E.Cn(!0,new T.iy(C.a0,t,t,u,t),t),t)}}
 F.ze.prototype={
 $0:function(){K.Jq(this.a).vo(P.O)},
 $S:0}
